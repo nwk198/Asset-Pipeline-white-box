@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asset-Pipeline-white-box-master.Plugins", "Asset-Pipeline-white-box-master.Plugins.csproj", "{ED6B27D8-6390-BC90-E8D2-BA33F145B541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asset-Pipeline-white-box-master", "Asset-Pipeline-white-box-master.csproj", "{DCCA007E-B9D7-1AC2-8412-BFB1198C2F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asset-Pipeline-white-box-master.Editor.Plugins", "Asset-Pipeline-white-box-master.Editor.Plugins.csproj", "{C676A741-F1B2-D8FA-A3FA-CC8B51058F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6B27D8-6390-BC90-E8D2-BA33F145B541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6B27D8-6390-BC90-E8D2-BA33F145B541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6B27D8-6390-BC90-E8D2-BA33F145B541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6B27D8-6390-BC90-E8D2-BA33F145B541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCA007E-B9D7-1AC2-8412-BFB1198C2F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCA007E-B9D7-1AC2-8412-BFB1198C2F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCA007E-B9D7-1AC2-8412-BFB1198C2F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCA007E-B9D7-1AC2-8412-BFB1198C2F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C676A741-F1B2-D8FA-A3FA-CC8B51058F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C676A741-F1B2-D8FA-A3FA-CC8B51058F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C676A741-F1B2-D8FA-A3FA-CC8B51058F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C676A741-F1B2-D8FA-A3FA-CC8B51058F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
